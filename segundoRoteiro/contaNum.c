@@ -6,7 +6,7 @@ int contVet( int vet[],int tam){
     int i;
     int j;
     int contador=0;
-
+    //atenção ao inicializar o segundo
     for(i = 0; i < tam ; i++){
         for(j= i + 1; j < tam ; j++){
 
